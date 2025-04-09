@@ -45,4 +45,4 @@ With just a simple slider on a web page, you can *adjust the LED brightness in r
 
 1. *Clone this repo*
 ```bash
-git clone https://github.com/yourusername/esp8266-pwm-led-control.git
+git clone https://github.com/Yash-ghanghola/esp8266-pwm-led-control.git
